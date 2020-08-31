@@ -1,10 +1,6 @@
 # DCGANs-GP
 Title: A 3D shale reconstruction technology based on DCGANs-GP
 
-Authors: Ting Zhang, Xianwu Wang, Xin Ji, Yi DU
-
-
-Email：wxw938491904@dingtalk.com
 
 1.requirements
 
